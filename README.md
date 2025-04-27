@@ -18,6 +18,6 @@ Speech to Text & Text to Speech App Summary: This app utilizes Streamlit, Speech
 
 # OUTPUT :
 
-
+![Image](https://github.com/user-attachments/assets/cdaf8a1c-3f68-485c-8dfe-2bc1648fd4d1)
 
 
